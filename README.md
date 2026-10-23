@@ -1,0 +1,1 @@
+# ToDo релизы, есть под платформы: Windows, Linux, Android
